@@ -131,3 +131,13 @@ LLM Issues (e.g., Ollama not found, connection errors):
 If using Ollama, ensure the Ollama server is running and you have pulled the required model (e.g., ollama run mistral).
 
 If using an API-based LLM (like OpenAI), ensure your API key is correctly set as an environment variable.
+
+
+Images
+<img width="1063" height="567" alt="Screenshot 2025-07-13 163916" src="https://github.com/user-attachments/assets/7acba3be-ac32-4c4f-ba95-4c7340e60044" />
+<img width="949" height="568" alt="Screenshot 2025-07-13 163935" src="https://github.com/user-attachments/assets/c89bf043-0864-4694-bf43-ffa5617f7c51" />
+<img width="1020" height="574" alt="Screenshot 2025-07-13 163954" src="https://github.com/user-attachments/assets/97d4da35-3bf6-4693-bc1e-319b02251c28" />
+<img width="1028" height="577" alt="Screenshot 2025-07-13 164007" src="https://github.com/user-attachments/assets/acc2dab3-1d20-4a6e-bd5b-f092d791f213" />
+
+
+
